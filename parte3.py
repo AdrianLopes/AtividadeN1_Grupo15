@@ -20,3 +20,4 @@ if i < 7:
     print('\nParabens voce conseguiu comprir o desafio')
 else:
     print(f'\nInfelizmente voce não compriu o desafio por usar {i} interações, \ntente novamente utilizando menos de 7 interações')
+    
