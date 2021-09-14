@@ -32,6 +32,7 @@ while sala < 9:
             print('Parabéns você ganhou o jogo')
     while sala == 8 :
         caminho = int(input(''))
+        
         i = i + 1
         if caminho == 2:
             print('Você entrou em um portal desconhecido dominado por criaturas místicas que dominam o tempo-espaço e será teletransportado para uma sala desconhecida')
